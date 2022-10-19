@@ -1,0 +1,59 @@
+.color-grey {
+    color: hsl(0deg 0% 73%);
+}
+
+.smaller-size {
+    font-size: .75em;
+}
+
+.btn-red {
+    background: #ed564b no-repeat center center;
+    display: inline-table;
+    width: 30px;
+    height: 30px;
+    background-size: 100% 100%;
+    color: white;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    opacity: 1 !important;
+}
+
+.carousel-control-prev a:hover,
+.carousel-control-next a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.bg-red {
+    background-color: #ed564b;
+}
+
+.half-size {
+    font-size: .5em;
+}
+
+.color-scale {
+    filter: grayscale(.9);
+}
+
+.centered {
+    margin: 0 auto;
+}
+
+.top-footer {
+    background: #2a2e32;
+}
+
+.bottom-footer {
+    background: #212529;
+}
+
+.bottom-dotted {
+    border-bottom-style: dotted;
+}
+
+.bottom-dotted a {
+    text-decoration: none;
+}
